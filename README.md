@@ -1,6 +1,6 @@
 # SALES ANALYSIS
 <div align="center">
-  <img src="https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/78663734-bcef-4377-8701-310959dc645c" alt="Your Image Description" width="700" height="auto" >
+  <img src="https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/78663734-bcef-4377-8701-310959dc645c" alt="Your Image Description" width="400" height="auto" >
 </div>
 
 
