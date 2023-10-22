@@ -42,7 +42,7 @@ These objectives will enhance decision-making and drive data-driven strategies f
   </tr>
   <tr>
     <td valign="middle">
-      <img src='https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/3c019c4c-d9f7-42a2-a8bc-04c3f3a45bff' alt="image" width="950" height="300" />
+      <img src='https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/3c019c4c-d9f7-42a2-a8bc-04c3f3a45bff' alt="image" width="950" height="250" />
     </td>
     <td valign="middle">
       The surface area chart provides a monthly view of a particular metric (please specify the metric) over time.
