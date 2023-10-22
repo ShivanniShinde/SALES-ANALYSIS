@@ -1,11 +1,43 @@
+# SALES ANALYSIS
+<div align="center">
+  <img src="https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/78663734-bcef-4377-8701-310959dc645c" alt="Your Image Description" width="700" height="auto" >
+</div>
 
 
 
-## Insights 
+# Table of Contents
+
+1. [Introduction 👋](#introduction-)
+2. [Objectives 💼](#objectives-)
+3. [Key Insights 📊](#key-insights-)
+   - [Profit for Each Month 📅💰](#profit-for-each-month-)
+   - [Mode of Payments 💳💸](#mode-of-payments--)
+   - [Top 5 Cities by Profit🌆💰](#top-5-cities-by-profit)
+   - [Profit by Segments](#profit-by-segments)
+4. [Dashboard 📈 📊](#dashboard--)
+5. [Conclusion](#conclusion)
+
+
+
+
+# Introduction 👋
+This project explores key insights through data visualizations. We aim to understand essential aspects of our dataset by examining charts, providing  with valuable information for data-driven decisions.
+
+# Objectives 💼
+
+-  Analyze sales trends across states using a bubble map chart.
+-  Understand customer payment preferences using an aster plot.
+-  Identify the top five cities contributing the most to profit.
+-  Analyze profit distribution across customer segments.
+
+These objectives will enhance decision-making and drive data-driven strategies for better business outcomes.
+
+
+# Key Insights 📊
 <table>
   <tr>
     <td colspan="2" align="center">
-      <h2>Profit for Each Month</h2>
+      <h2>Profit for Each Month 📅💰</h2>
     </td>
   </tr>
   <tr>
@@ -24,7 +56,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <h2 id="sales-heading">Sales by States</h2>
+      <h2 id="sales-heading">Sales by States 🗺️ </h2>
     </td>
   </tr>
   <tr>
@@ -49,12 +81,12 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <h2>Mode of Payments</h2>
+      <h2>Mode of Payments 💳 💸</h2>
     </td>
   </tr>
   <tr>
     <td valign="middle">
-      <img src="https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/9239d5a4-a9c3-4cab-8b22-f309e9ec958a" alt="image" width="450" height="350" />
+      <img src="https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/9239d5a4-a9c3-4cab-8b22-f309e9ec958a" alt="image" width="350" height="250" />
     </td>
     <td valign="middle">
       <ul>
@@ -72,7 +104,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <h2>Top 5 Cities by Profit</h2>
+      <h2>Top 5 Cities by Profit🌆💰</h2>
     </td>
   </tr>
   <tr>
@@ -112,9 +144,10 @@
   </tr>
 </table>
 
+# Dashboard 📈 📊
+<p align="center">
+  <img src="https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/a021ea92-eea2-470a-a307-a1a262f28ce6" alt="Dashboard" width="800" height="auto">
+</p>
 
-
-
-
-# Dashboard
-![Screenshot 2023-10-08 123930](https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/a021ea92-eea2-470a-a307-a1a262f28ce6)
+# Conclusion:
+This project has provided valuable insights into our dataset through various visualizations. We've gained a deeper understanding of sales trends, customer payment preferences, profitable cities, and the impact of customer segments on profit.
