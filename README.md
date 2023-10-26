@@ -25,8 +25,8 @@ This project explores key insights through data visualizations. We aim to unders
 
 # Objectives 💼
 
--  Analyze sales trends across states using a bubble map chart.
--  Understand customer payment preferences using an aster plot.
+-  Analyze sales trends across states .
+-  Understand customer payment preferences .
 -  Identify the top five cities contributing the most to profit.
 -  Analyze profit distribution across customer segments.
 
@@ -45,8 +45,10 @@ These objectives will enhance decision-making and drive data-driven strategies f
       <img src='https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/3c019c4c-d9f7-42a2-a8bc-04c3f3a45bff' alt="image" width="950" height="250" />
     </td>
     <td valign="middle">
-      The surface area chart provides a monthly view of a particular metric over time.
-      It's useful for identifying trends and patterns in the data, which can be critical for making informed decisions.
+      <ul>
+        <li>The surface area chart provides a monthly view of a particular metric over time.</li>
+        <li>It's useful for identifying trends and patterns in the data, which can be critical for making informed decisions.</li>
+      </ul>
     </td>
   </tr>
 </table>
