@@ -45,7 +45,7 @@ These objectives will enhance decision-making and drive data-driven strategies f
       <img src='https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/3c019c4c-d9f7-42a2-a8bc-04c3f3a45bff' alt="image" width="950" height="250" />
     </td>
     <td valign="middle">
-      The surface area chart provides a monthly view of a particular metric (please specify the metric) over time.
+      The surface area chart provides a monthly view of a particular metric over time.
       It's useful for identifying trends and patterns in the data, which can be critical for making informed decisions.
     </td>
   </tr>
@@ -111,8 +111,8 @@ These objectives will enhance decision-making and drive data-driven strategies f
     <td valign="middle">
       <ul>
         <li>This horizontal bar chart illustrates the top 5 cities by profit.</li>
-        <li>It's clear that [list the top 5 cities] are the most profitable cities in your dataset, with [mention the profit values].</li>
-        <li>This chart allows you to quickly identify the cities that contribute the most to your overall profit.</li>
+        <li>It's clear that New York , Los Angels are the most profitable cities .</li>
+        <li>This chart allows   quickly identify the cities that contribute the most to your overall profit.</li>
       </ul>
     </td>
     <td valign="middle">
