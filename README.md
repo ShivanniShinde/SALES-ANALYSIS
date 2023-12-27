@@ -148,7 +148,8 @@ These objectives will enhance decision-making and drive data-driven strategies f
 
 # Dashboard 📈 📊
 
-![image](https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/bac71dc3-1b10-48a8-9960-98c52615f173)
+![image](https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/2a16d3f1-cadb-4854-93a9-0fe87db4439b)
+
 
 # Conclusion
 This project has provided valuable insights into our dataset through various visualizations. We've gained a deeper understanding of sales trends, customer payment preferences, profitable cities, and the impact of customer segments on profit.
