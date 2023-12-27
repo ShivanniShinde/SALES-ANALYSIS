@@ -148,7 +148,7 @@ These objectives will enhance decision-making and drive data-driven strategies f
 
 # Dashboard 📈 📊
 
-![image](https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/500e65ed-2295-4a82-a587-c7af6006d07d)
+![image](https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/1d421332-ee6d-40f8-a285-564449577bc4)
 
 
 
