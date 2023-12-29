@@ -77,18 +77,17 @@ These objectives will enhance decision-making and drive data-driven strategies f
 </table>
 
 
-
-
 <!-- Table 1: Mode of Payments -->
 <table>
   <tr>
     <td colspan="2" align="center">
       <h2>Mode of Payments 💳 💸</h2>
     </td>
-  </tr>
+  </tr> 
+
   <tr>
     <td valign="middle">
-      <img src="https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/9239d5a4-a9c3-4cab-8b22-f309e9ec958a" alt="image" width="350" height="250" />
+      <img src="https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/a03323bb-2e64-4108-800a-342f88bab7a4" alt="image" width="350" height="250" />
     </td>
     <td valign="middle">
       <ul>
@@ -148,7 +147,8 @@ These objectives will enhance decision-making and drive data-driven strategies f
 
 # Dashboard 📈 📊
 
-![image](https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/1d421332-ee6d-40f8-a285-564449577bc4)
+![image](https://github.com/ShivanniShinde/SALES-ANALYSIS/assets/143825606/7988bfc6-41ce-4481-8b01-7f5a23c0e703)
+
 
 
 
